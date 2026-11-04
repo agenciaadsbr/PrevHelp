@@ -1,3 +1,7 @@
-Página: aposentadoria-enfermeiros.html (redirect: redirect-enfermeiros.html)
-Mantenha todos os arquivos na mesma pasta (junto com os demais do site no GitHub).
+Páginas com os títulos novos:
+- aposentadoria-professores.html (redirect: redirect-professores.html)
+- aposentadoria-policiais-bombeiros.html (redirect: redirect-policiais.html)
+- aposentadoria-enfermeiros.html (redirect: redirect-enfermeiros.html)
+
+Substitua as versões antigas no GitHub por estas. Mantenha todos os arquivos na mesma pasta.
 Formulário, métricas e WhatsApp precisam de internet.
