@@ -1,0 +1,3 @@
+Página: aposentadoria-enfermeiros.html (redirect: redirect-enfermeiros.html)
+Mantenha todos os arquivos na mesma pasta (junto com os demais do site no GitHub).
+Formulário, métricas e WhatsApp precisam de internet.
